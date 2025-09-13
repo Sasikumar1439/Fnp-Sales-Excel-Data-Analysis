@@ -12,7 +12,7 @@ This project focuses on analyzing sales performance data for FNP (Ferns N Petals
 •	Analyze hourly order trends to optimize marketing and operations.
 
 ## Data Source
--Dataset<a href="https://github.com/Sasikumar1439/Fnp-Sales-Excel-Data-Analysis/blob/main/products.csv","https://github.com/Sasikumar1439/Fnp-Sales-Excel-Data-Analysis/blob/main/customers.csv","https://github.com/Sasikumar1439/Fnp-Sales-Excel-Data-Analysis/blob/main/orders.csv">Dataset</a>
+-<a href="https://github.com/Sasikumar1439/Fnp-Sales-Excel-Data-Analysis/blob/main/Fnp-Sales%20Dashboard.xlsx">Dataset</a>
 •	Excel dataset provided with sales records including order details, revenue, category, city, occasion, and delivery time.
 •	Dashboard built in Excel using Pivot Tables, Charts, and Slicers.
 
@@ -56,11 +56,6 @@ o	Slicers for interactivity (filtering by month, occasion, etc.).
 •	Identified top revenue-generating products and categories.
 •	Highlighted geographic hotspots for sales growth.
 •	Revealed delivery bottlenecks for operational optimization.
-
-## Conclusion
-Here’s a **brief conclusion** you can add to your project:
-
----
 
 ## Conclusion
 
